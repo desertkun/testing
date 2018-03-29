@@ -1,1 +1,1 @@
-sphinx-tabs=1.1.7
+sphinx-tabs==1.1.7
